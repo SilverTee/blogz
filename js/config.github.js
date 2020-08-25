@@ -10,7 +10,7 @@ var config = {
   // and branch to get files from.
   github: {
     username: 'abhiprojectz',
-    repo: 'blog',
+    repo: 'blogz',
     branch: 'master',
     host: 'https://api.github.com'
     // Use prefix option if your site is located in a subdirectory.
